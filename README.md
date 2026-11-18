@@ -29,4 +29,4 @@
 ## 📫 Me contacter
 
 - 🌐 Portfolio : [mohamed-berguiga.github.io](https://mohamed-berguiga.github.io)
-- 💼 LinkedIn : *à ajouter*
+- 💼 LinkedIn : [mohamed-berguiga](https://www.linkedin.com/in/mohamed-berguiga-0b7999343/)
