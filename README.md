@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Mohamed Berguiga
 
 - 🎓 Étudiant ingénieur à l'**ENISO** (École Nationale d'Ingénieurs de Sousse)
-- 🤖 Passionné par l'**intelligence artificielle**, les **systèmes multi-agents** et la **data**
+- 🤖 Passionné par l'**intelligence artificielle**, les **systèmes multi-agents**, la **data** et le **DevOps**
 - 🌱 En ce moment : je construis des applications à base de LLM (agents, RAG)
 
 ---
