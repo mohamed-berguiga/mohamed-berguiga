@@ -1,8 +1,8 @@
 # 👋 Salut, je suis Mohamed Berguiga
 
-🎓 Étudiant ingénieur à l'**ENISO** (École Nationale d'Ingénieurs de Sousse)
-🤖 Passionné par l'**intelligence artificielle**, les **systèmes multi-agents** et la **data**
-🌱 En ce moment : je construis des applications à base de LLM (agents, RAG)
+- 🎓 Étudiant ingénieur à l'**ENISO** (École Nationale d'Ingénieurs de Sousse)
+- 🤖 Passionné par l'**intelligence artificielle**, les **systèmes multi-agents** et la **data**
+- 🌱 En ce moment : je construis des applications à base de LLM (agents, RAG)
 
 ---
 
@@ -20,9 +20,9 @@
 
 ## 🛠️ Compétences
 
-**Langages** : Python · TypeScript · JavaScript · Kotlin · HTML/CSS
-**IA & Data** : LLM · Systèmes multi-agents · RAG · Prompt engineering · Ollama · Big Data · IoT
-**Outils** : Git · GitHub · VS Code
+- **Langages** : Python · TypeScript · JavaScript · Kotlin · HTML/CSS
+- **IA & Data** : LLM · Systèmes multi-agents · RAG · Prompt engineering · Ollama · Big Data · IoT
+- **Outils** : Git · GitHub · VS Code
 
 ---
 
